@@ -98,6 +98,8 @@ body {
 
 .presentacion__imagen{
     width: 50%;
+    border-radius: 5%;
+
 }
 
 .presentacion__enlaces__subtitulo {
@@ -116,7 +118,7 @@ body {
     font-weight: 400;
 }
 
-@media (max-width 1200px){
+@media (max-width: 1200px){
 
     .header {
         padding: 10%;
